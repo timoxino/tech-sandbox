@@ -34,7 +34,7 @@ public class Bookmark
         this.account = account;
     }
 
-    Bookmark()
+    public Bookmark()
     {
     }
 
